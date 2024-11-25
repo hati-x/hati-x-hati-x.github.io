@@ -1,2 +1,2 @@
-# hati-x-hati-x.github.io
+# hati-x.github.io
 test
